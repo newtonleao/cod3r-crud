@@ -1,0 +1,11 @@
+{
+    "user" :[{
+        "id":1,
+        "nome":"Newtoon Leao",
+        "email":"newtonleao@hotmail.com"
+    },{
+        "id":2,
+        "nome":"Rafael Leao",
+        "email":"rafaelleao10@hotmail.com"
+    }]
+}

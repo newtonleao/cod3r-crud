@@ -1,0 +1,23 @@
+{
+  "name": "cod3r-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtonleao/cod3r-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtonleao/cod3r-crud/issues"
+  },
+  "homepage": "https://github.com/newtonleao/cod3r-crud#readme",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
