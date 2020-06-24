@@ -1,11 +1,19 @@
 {
-    "user" :[{
-        "id":1,
-        "nome":"Newtoon Leao",
-        "email":"newtonleao@hotmail.com"
-    },{
-        "id":2,
-        "nome":"Rafael Leao",
-        "email":"rafaelleao10@hotmail.com"
-    }]
+  "user": [
+    {
+      "id": 1,
+      "name": "Newton Leao",
+      "email": "newtonleao@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rafael Leao",
+      "email": "rafaelleao10@hotmail.com"
+    },
+    {
+      "name": "Rodrigo Leão",
+      "email": "rodrigoleao@hotmail.com",
+      "id": 3
+    }
+  ]
 }
